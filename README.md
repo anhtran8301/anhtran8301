@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/anhtran.svg" width="1200" alt="anhtran-official" />
+  <img src="svg/anhtran1.svg" width="1200" alt="anhtran-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
