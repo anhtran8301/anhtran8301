@@ -66,16 +66,13 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://www.facebook.com/nhoc.bin.169/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="anhtran-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="anhtran-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a href="https://www.facebook.com/nhoc.bin.169/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="anhtran-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://www.instagram.com/tranannh/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="anhtran-instagram" />
   </a>
   <a href="mailto:anhtran8301@gmail.com" target="top">
