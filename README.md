@@ -50,16 +50,17 @@
   </a>
 </div>
 <br>
+
 ```dart
 // tools_I_use organized
-  class About extends Me { 
+
+class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "ProgramingLanguages" : {"Java", "JavaScript", "TypeScript", "C#", "C++" },
+    "Database" : { "Firebase", "MySQL", "SQL Server", "PostgreSQL", "MongoDB" },
+    "Editors" : { "Vscode", "Visual Studio", "Eclipse", "IntelliJ IDEA" },
+    "Platforms" : { "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git" }
   };
 }
 ```
