@@ -6,7 +6,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://camo.githubusercontent.com/d93e16d454115ff5f4da3ca9f284c70d560b41d129e19ce003ec936bfaab3347/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_horizontal_logo_icon_167858.png" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
