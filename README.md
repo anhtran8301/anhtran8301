@@ -8,6 +8,8 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFA500" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=FFA500" alt="Php logo" title="Php" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -56,7 +58,7 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : {"Java", "JavaScript", "TypeScript", "C#", "C++" },
+    "ProgramingLanguages" : {"Java", "JavaScript", "Php", "TypeScript", "C#", "C++" },
     "Database" : { "Firebase", "MySQL", "SQL Server", "PostgreSQL", "MongoDB" },
     "Editors" : { "Vscode", "Visual Studio", "Eclipse", "IntelliJ IDEA" },
     "Platforms" : { "Linux", "Windows" },
