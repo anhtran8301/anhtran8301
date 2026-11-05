@@ -463,7 +463,7 @@
 </p>
 <h3>Testing, Code Quality &amp; API Tools</h3>
 <p>
-    <img src="https://img.shields.io/badge/Mockito-282C34" alt="Mockito" title="Mockito" height="25" /><img src="https://img.shields.io/badge/JUnit_5-282C34?logo=junit5&amp;logoColor=25A162" alt="JUnit 5" title="JUnit 5" height="25" />
+    <img src="https://img.shields.io/badge/Mockito-282C34" alt="Mockito" title="Mockito" height="25" /> <img src="https://img.shields.io/badge/JUnit_5-282C34?logo=junit5&amp;logoColor=25A162" alt="JUnit 5" title="JUnit 5" height="25" />
     <img
         src="https://img.shields.io/badge/Spring_Boot_Test-282C34?logo=springboot&amp;logoColor=6DB33F"
         alt="Spring Boot Test"
