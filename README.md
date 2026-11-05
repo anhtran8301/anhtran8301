@@ -30,18 +30,6 @@
         title="PHP"
         height="25"
     />
-    <img
-        src="https://img.shields.io/badge/C#-282C34?logo=csharp&amp;logoColor=9B4F96"
-        alt="C#"
-        title="C#"
-        height="25"
-    />
-    <img
-        src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&amp;logoColor=00599C"
-        alt="C++"
-        title="C++"
-        height="25"
-    />
 </p>
 <h3>Backend &amp; Architecture</h3>
 <p>
