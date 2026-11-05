@@ -320,19 +320,6 @@ class About extends Me {
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 
-// tools_I_use organized class About extends Me { const myTools = { "ProgrammingLanguages": {"Java", "JavaScript",
-"PHP", "TypeScript", "C#", "C++"}, "Databases": {"Firebase", "MySQL", "SQL Server", "PostgreSQL", "MongoDB"}, "Editors":
-{"VS Code", "Visual Studio", "Eclipse", "IntelliJ IDEA"}, "Platforms": {"Linux", "Windows", "macOS"}, "OtherTools":
-{"Git", "Docker", "GitHub Actions"} }; } -
-<img alt="Developer" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently
-learning Java & WebDev. -
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />   I like talking to
-people about interesting things. -
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about PC
-building, movies, or anything. -
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />   Fun fact: Banging your
-head against a wall for one hour burns 150 calories.
-<h2 align="center">👽 Where to find me 👽</h2>
 <div align="center">
     <a href="https://www.facebook.com/nhoc.bin.169/">
         <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="anhtran-facebook" />
