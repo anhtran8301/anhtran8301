@@ -8,7 +8,11 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFA500" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Spring_Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=FFA500" alt="Php logo" title="Php" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
