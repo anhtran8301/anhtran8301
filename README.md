@@ -129,6 +129,42 @@
         title="Directus"
         height="25"
     />
+    <img
+        src="https://img.shields.io/badge/Apache_Maven-282C34?logo=apachemaven&amp;logoColor=C71A36"
+        alt="Apache Maven"
+        title="Apache Maven"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&amp;logoColor=59666C"
+        alt="Hibernate"
+        title="Hibernate"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&amp;logoColor=FF2D20"
+        alt="Laravel"
+        title="Laravel"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Eloquent_ORM-282C34?logo=laravel&amp;logoColor=FF2D20"
+        alt="Eloquent ORM"
+        title="Eloquent ORM"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&amp;logoColor=FFFFFF"
+        alt="Prisma"
+        title="Prisma"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/TypeORM-282C34?logo=typeorm&amp;logoColor=FE0803"
+        alt="TypeORM"
+        title="TypeORM"
+        height="25"
+    />
 </p>
 <h3>Frontend</h3>
 <p>
@@ -262,6 +298,24 @@
         src="https://img.shields.io/badge/Cloudinary-282C34?logo=cloudinary&amp;logoColor=3448C5"
         alt="Cloudinary"
         title="Cloudinary"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/AWS-282C34?logo=amazonwebservices&amp;logoColor=FF9900"
+        alt="AWS"
+        title="AWS"
+        height="25"
+    />
+</p>
+<h3>Payments &amp; Integrations</h3>
+<p>
+    <img src="https://img.shields.io/badge/MoMo-A50064" alt="MoMo" title="MoMo" height="25" />
+    <img src="https://img.shields.io/badge/BIDV-006B3F" alt="BIDV" title="BIDV" height="25" />
+    <img src="https://img.shields.io/badge/VietinBank-005BAA" alt="VietinBank" title="VietinBank" height="25" />
+    <img
+        src="https://img.shields.io/badge/Google_Maps-282C34?logo=googlemaps&amp;logoColor=4285F4"
+        alt="Google Maps"
+        title="Google Maps"
         height="25"
     />
 </p>
@@ -404,6 +458,18 @@
         src="https://img.shields.io/badge/Coolify-282C34?logo=coolify&amp;logoColor=6B16ED"
         alt="Coolify"
         title="Coolify"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/GitHub-282C34?logo=github&amp;logoColor=FFFFFF"
+        alt="GitHub"
+        title="GitHub"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Bitbucket-282C34?logo=bitbucket&amp;logoColor=0052CC"
+        alt="Bitbucket"
+        title="Bitbucket"
         height="25"
     />
 </p>
