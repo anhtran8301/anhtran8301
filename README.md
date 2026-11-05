@@ -105,6 +105,30 @@
         title="JWT"
         height="25"
     />
+    <img
+        src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&amp;logoColor=FF6600"
+        alt="RabbitMQ"
+        title="RabbitMQ"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Socket.IO-282C34?logo=socketdotio&amp;logoColor=FFFFFF"
+        alt="Socket.IO"
+        title="Socket.IO"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Axios-282C34?logo=axios&amp;logoColor=5A29E4"
+        alt="Axios"
+        title="Axios"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Directus-282C34?logo=directus&amp;logoColor=6644FF"
+        alt="Directus"
+        title="Directus"
+        height="25"
+    />
 </p>
 <h3>Frontend</h3>
 <p>
@@ -169,6 +193,31 @@
         title="Bootstrap"
         height="25"
     />
+    <img
+        src="https://img.shields.io/badge/Zod-282C34?logo=zod&amp;logoColor=3E67B1"
+        alt="Zod"
+        title="Zod"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/shadcn%2Fui-282C34?logo=shadcnui&amp;logoColor=FFFFFF"
+        alt="shadcn/ui"
+        title="shadcn/ui"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwindcss&amp;logoColor=06B6D4"
+        alt="Tailwind CSS"
+        title="Tailwind CSS"
+        height="25"
+    />
+    <img src="https://img.shields.io/badge/Sonner-282C34" alt="Sonner" title="Sonner" height="25" />
+    <img
+        src="https://img.shields.io/badge/TanStack-282C34?logo=tanstack&amp;logoColor=FF4154"
+        alt="TanStack"
+        title="TanStack"
+        height="25"
+    />
 </p>
 <h3>Database &amp; Cloud</h3>
 <p>
@@ -203,6 +252,18 @@
         height="25"
     />
     <img src="https://img.shields.io/badge/SQL_Server-282C34" alt="SQL Server" title="SQL Server" height="25" />
+    <img
+        src="https://img.shields.io/badge/Typesense-282C34?logo=typesense&amp;logoColor=D63AFF"
+        alt="Typesense"
+        title="Typesense"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Cloudinary-282C34?logo=cloudinary&amp;logoColor=3448C5"
+        alt="Cloudinary"
+        title="Cloudinary"
+        height="25"
+    />
 </p>
 <h3>DevOps, Testing &amp; Tools</h3>
 <p>
@@ -284,7 +345,112 @@
         title="WordPress"
         height="25"
     />
+    <img
+        src="https://img.shields.io/badge/Jest-282C34?logo=jest&amp;logoColor=C21325"
+        alt="Jest"
+        title="Jest"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus&amp;logoColor=E6522C"
+        alt="Prometheus"
+        title="Prometheus"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Grafana_Loki-282C34?logo=grafana&amp;logoColor=F46800"
+        alt="Loki"
+        title="Loki"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Grafana-282C34?logo=grafana&amp;logoColor=F46800"
+        alt="Grafana"
+        title="Grafana"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Jira-282C34?logo=jira&amp;logoColor=0052CC"
+        alt="Jira"
+        title="Jira"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Trello-282C34?logo=trello&amp;logoColor=0052CC"
+        alt="Trello"
+        title="Trello"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Excel-282C34?logo=microsoftexcel&amp;logoColor=217346"
+        alt="Microsoft Excel"
+        title="Microsoft Excel"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Linear-282C34?logo=linear&amp;logoColor=5E6AD2"
+        alt="Linear"
+        title="Linear"
+        height="25"
+    />
+    <img src="https://img.shields.io/badge/Read-282C34" alt="Read" title="Read" height="25" />
+    <img
+        src="https://img.shields.io/badge/Redmine-282C34?logo=redmine&amp;logoColor=B32024"
+        alt="Redmine"
+        title="Redmine"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Coolify-282C34?logo=coolify&amp;logoColor=6B16ED"
+        alt="Coolify"
+        title="Coolify"
+        height="25"
+    />
 </p>
+<h2 align="center">🤖 AI Tools &amp; Development Workflow 🤖</h2>
+<p>
+    <img
+        src="https://img.shields.io/badge/Claude-282C34?logo=anthropic&amp;logoColor=D97757"
+        alt="Claude"
+        title="Claude"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Cursor-282C34?logo=cursor&amp;logoColor=FFFFFF"
+        alt="Cursor"
+        title="Cursor"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Codex-282C34?logo=openai&amp;logoColor=FFFFFF"
+        alt="Codex"
+        title="Codex"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/ChatGPT-282C34?logo=openai&amp;logoColor=74AA9C"
+        alt="ChatGPT"
+        title="ChatGPT"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Antigravity-282C34?logo=google&amp;logoColor=4285F4"
+        alt="Antigravity"
+        title="Antigravity"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Gemini-282C34?logo=googlegemini&amp;logoColor=8E75B2"
+        alt="Gemini"
+        title="Gemini"
+        height="25"
+    />
+    <img src="https://img.shields.io/badge/AI_Skills-282C34" alt="AI Skills" title="AI Skills" height="25" />
+    <img src="https://img.shields.io/badge/AI_Agents-282C34" alt="AI Agents" title="AI Agents" height="25" />
+    <img src="https://img.shields.io/badge/MCP-282C34" alt="MCP" title="MCP" height="25" />
+    <img src="https://img.shields.io/badge/Plugins-282C34" alt="Plugins" title="Plugins" height="25" />
+</p>
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
