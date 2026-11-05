@@ -10,6 +10,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spring_Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Microservices-282C34" alt="Microservice logo" title="Microservice" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Spring_WebFlux-282C34?logo=spring&logoColor=6DB33F" alt="Microservice logo" title="Microservice" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=FFA500" alt="Php logo" title="Php" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
@@ -41,6 +45,12 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub_Actions-282C34" alt="Redis logo" title="Redis" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker_Compose-282C34" alt="Docker Compose logo" title="Docker Compose" height="25" /></span>
 &nbsp;
 <br>
 
