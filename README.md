@@ -364,18 +364,6 @@
         height="25"
     />
     <img
-        src="https://img.shields.io/badge/JUnit_5-282C34?logo=junit5&amp;logoColor=25A162"
-        alt="JUnit 5"
-        title="JUnit 5"
-        height="25"
-    />
-    <img
-        src="https://img.shields.io/badge/Testcontainers-282C34"
-        alt="Testcontainers"
-        title="Testcontainers"
-        height="25"
-    />
-    <img
         src="https://img.shields.io/badge/Playwright-282C34?logo=playwright&amp;logoColor=2EAD33"
         alt="Playwright"
         title="Playwright"
@@ -470,6 +458,60 @@
         src="https://img.shields.io/badge/Bitbucket-282C34?logo=bitbucket&amp;logoColor=0052CC"
         alt="Bitbucket"
         title="Bitbucket"
+        height="25"
+    />
+</p>
+<h3>Testing, Code Quality &amp; API Tools</h3>
+<p>
+    <img
+        src="https://img.shields.io/badge/JUnit_5-282C34?logo=junit5&amp;logoColor=25A162"
+        alt="JUnit 5"
+        title="JUnit 5"
+        height="25"
+    />
+
+    <img src="https://img.shields.io/badge/Mockito-282C34" alt="Mockito" title="Mockito" height="25" />
+    <img
+        src="https://img.shields.io/badge/Spring_Boot_Test-282C34?logo=springboot&amp;logoColor=6DB33F"
+        alt="Spring Boot Test"
+        title="Spring Boot Test"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Spring_Test-282C34?logo=spring&amp;logoColor=6DB33F"
+        alt="Spring Test"
+        title="Spring Test"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Testcontainers-282C34"
+        alt="Testcontainers"
+        title="Testcontainers"
+        height="25"
+    />
+    <img src="https://img.shields.io/badge/JaCoCo-282C34" alt="JaCoCo" title="JaCoCo" height="25" />
+    <img
+        src="https://img.shields.io/badge/SonarQube-282C34?logo=sonarqubeserver&amp;logoColor=4E9BCD"
+        alt="SonarQube"
+        title="SonarQube"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/Postman-282C34?logo=postman&amp;logoColor=FF6C37"
+        alt="Postman"
+        title="Postman"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/DBeaver-282C34?logo=dbeaver&amp;logoColor=897263"
+        alt="DBeaver"
+        title="DBeaver"
+        height="25"
+    />
+    <img
+        src="https://img.shields.io/badge/MongoDB_Compass-282C34?logo=mongodb&amp;logoColor=47A248"
+        alt="MongoDB Compass"
+        title="MongoDB Compass"
         height="25"
     />
 </p>
