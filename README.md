@@ -318,9 +318,7 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-<div align="center">Where to find me 👽</div>
-
-<br>
+<h2 align="center">Where to find me 👽</h2>
 
 <div align="center">
     <a href="https://www.facebook.com/nhoc.bin.169/">
